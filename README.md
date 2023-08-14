@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tj-rasley
 - 👀 I’m interested in all things front end development and design!
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning all about software engineering
 - 💞️ I’m looking to collaborate on projects that are suitable for beginners.
 - 📫 How to reach me linkedin.com/in/tanya-rasley
 
